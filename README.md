@@ -44,13 +44,13 @@ To get started with this repository:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/qasimalik/blind75.git
-    cd blind-75-leetcode
+    cd blind75
     ```
 
 2. **Navigate to the problem directory**:
     Each problem is located in its respective category folder. For example:
     ```bash
-    cd arrays/two-sum
+    cd arrays/twoSum
     ```
 
 3. **Run the solution**:
