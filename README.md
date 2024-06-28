@@ -9,7 +9,6 @@ Welcome to the Blind 75 LeetCode Problems repository! This repository contains s
 - [Problem Categories](#problem-categories)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -74,10 +73,6 @@ Contributions are welcome! If you have a better solution, an alternative approac
     git push origin feature/your-feature
     ```
 5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
